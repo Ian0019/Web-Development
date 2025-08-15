@@ -1,0 +1,32 @@
+*{
+background-color: black;
+color:white;
+}
+input[type= "text"]{
+    background-color: aqua;
+}
+ul > li {
+    color: lime;
+}
+h1 + h2{
+    color: green;
+}
+li:hover{
+color:yellowgreen;
+}
+li:nth-child(2){
+    background-color: aliceblue;
+}
+p:not(:first-of-type){
+    color: bisque;
+}
+li::before{
+    content: "🚄";
+}
+a::after{
+    content: "👌";
+}
+p::first-letter{
+    font-size: 200%;
+    color: brown;
+}
