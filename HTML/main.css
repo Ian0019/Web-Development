@@ -1,0 +1,17 @@
+*{
+background-color: black;
+color: lightslategrey;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+h1{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+text-shadow: 5px 5px 9px;}
+p{font-size: 110%;
+}
+li{font-size: 110%;
+}
+a:hover{
+color: whitesmoke;
+}
+a{
+font-size: 100%;
+}
